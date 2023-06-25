@@ -1,2 +1,15 @@
 # recipe_recommendation
-Working on a project where you can put an input and it will recommend you a recipe based on the ingridients you input, will try to also include recommendation system based on reviews (based on what people that liked that recipe also liked)
+
+[Antonio Gagliardo, MBA](https://aj-gagliardo.github.io/) <br>
+ajgagliardo92@gmail.com <br>
+https://github.com/AJ-Gagliardo <br>
+
+Recipe Recommendation project is a sentiment analysis and recipe recommendation tool. It is used to understand the sentiment of customers/visitors and be able to recommend based on content and reviews. So it is an effective way of understanding the market and providing good recommendations based on it.
+
+**Project summary documents**<br>
+1.- Antonio_Gagliardo_Recipe_00_CAPSTONE PROJECT FINAL REPORT.pdf - This is the final report that summarizes the project
+
+**The process in Jupyter Notebooks:** <br>
+1.- Antonio_Gagliardo_Recipe_01_sentiment_analysis.ipynb
+2.- Antonio_Gagliardo_Recipe_02_Content_Recommendation_System.ipynb
+3.-Antonio_Gagliardo_Recipe_03_user_based_recommendations.ipynb
