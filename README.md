@@ -13,3 +13,8 @@ Recipe Recommendation project is a sentiment analysis and recipe recommendation 
 1.- Antonio_Gagliardo_Recipe_01_sentiment_analysis.ipynb <br>
 2.- Antonio_Gagliardo_Recipe_02_Content_Recommendation_System.ipynb <br>
 3.-Antonio_Gagliardo_Recipe_03_user_based_recommendations.ipynb <br>
+
+
+**To reproduce the environment** <br>
+You can use environment.yml to reproduce the environment, use: <br>
+conda env create --file environment.yml
