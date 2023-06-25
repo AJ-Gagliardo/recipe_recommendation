@@ -10,6 +10,6 @@ Recipe Recommendation project is a sentiment analysis and recipe recommendation 
 1.- Antonio_Gagliardo_Recipe_00_CAPSTONE PROJECT FINAL REPORT.pdf - This is the final report that summarizes the project
 
 **The process in Jupyter Notebooks:** <br>
-1.- Antonio_Gagliardo_Recipe_01_sentiment_analysis.ipynb
-2.- Antonio_Gagliardo_Recipe_02_Content_Recommendation_System.ipynb
-3.-Antonio_Gagliardo_Recipe_03_user_based_recommendations.ipynb
+1.- Antonio_Gagliardo_Recipe_01_sentiment_analysis.ipynb <br>
+2.- Antonio_Gagliardo_Recipe_02_Content_Recommendation_System.ipynb <br>
+3.-Antonio_Gagliardo_Recipe_03_user_based_recommendations.ipynb <br>
